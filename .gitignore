@@ -1,0 +1,9 @@
+uploads/*
+!uploads/.htaccess
+!uploads/miniaturas/
+uploads/miniaturas/*
+!uploads/miniaturas/.gitkeep
+
+.DS_Store
+Thumbs.db
+.vscode/
