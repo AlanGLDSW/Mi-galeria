@@ -1,0 +1,3 @@
+# Página de inicio y opciones generales de Apache
+DirectoryIndex index.php
+Options -Indexes
